@@ -7,7 +7,7 @@
 }
 /* #===============================hero-sec============================================================================================= */
 .hero-sec{
-    background-image: url('/hero-main.jpg');
+    background-image: url('hero-main.jpg');
     height:100vh;
     width: auto;
     background-repeat: no-repeat;
@@ -172,7 +172,7 @@
 /* -----------------------------project1------------------------------------------------------------------------------------------------- */
 .project1{
     height: 100vh;
-    background-image: url('/svg5.svg');
+    background-image: url('svg5.svg');
     
 }
 
@@ -240,7 +240,7 @@
 /* ---------------------------------------------project2-------------------------------------------------------- */
 .project2{
     height: 100vh;
-    background-image: url('/svg7.svg');
+    background-image: url('svg7.svg');
 }
 .class2{
     margin-top: 18vh;
@@ -336,7 +336,7 @@ footer{
 }
 .hero-img{
     margin-top: 15vh;
-    background-image: url(/HD1.jpg);
+    background-image: url(HD1.jpg);
     height:100vh;
     background-size: cover;
 }
@@ -381,7 +381,7 @@ footer{
     padding-bottom: 10vh;
 }
 .resume-image{
-    background-image: url(/Resume_HD.png);
+    background-image: url(Resume_HD.png);
     height: 150vh;
     background-size: contain;
     background-repeat: no-repeat;
